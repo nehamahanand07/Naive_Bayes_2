@@ -3,6 +3,8 @@ MUSHROOM CLASSIFICATION USING NAIVE BAYES
 
 *Naive Bayes model creation for begginers to practice
 
+*FILES USED FOR PREDICTION IS AVAILABLE IN THE BRANCH "master"
+
 *DATA FROM: https://www.kaggle.com/datasets/uciml/mushroom-classification
 
 *Attribute Information: (classes: edible=e, poisonous=p)
